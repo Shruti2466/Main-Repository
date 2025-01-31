@@ -1,0 +1,41 @@
+body {
+
+    font-family: Arial, sans-serif;
+  
+  }
+  
+  form {
+  
+    display: flex;
+  
+    flex-direction: column;
+  
+    width: 200px;
+  
+    margin: 0 auto;
+  
+  }
+  
+  input {
+  
+    margin-bottom: 10px;
+  
+    padding: 10px;
+  
+    font-size: 16px;
+  
+  }
+  
+  button {
+  
+    padding: 10px;
+  
+    background-color: #4CAF50;
+  
+    color: white;
+  
+    border: none;
+  
+  }
+  
+   
